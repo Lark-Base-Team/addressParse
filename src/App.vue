@@ -25,4 +25,8 @@ code {
   color: #d63384;
   word-wrap: break-word;
 }
+body {
+  background: #fff;
+}
+
 </style>
